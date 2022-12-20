@@ -8,7 +8,7 @@ npm i -g netlify-cli
 # Save its exec path to run later
 NETLIFY_CLI=$(which netlify)
 
-NODE_VERSION=$9
+NODE_VERSION=$14
 
 # We can start using INPUT_ notation instead of passing
 # env variables as arg to docker
